@@ -20,5 +20,36 @@ Review it with me first before creating the backend apis <br />
 
 5. Divide the work for backend api <br />
 
-6.Recordings <br />
+6. Recordings <br />
 Day1: https://drive.google.com/drive/folders/1J1oR1_T64iEVTcTsXIEexx2ZN6quxEPJ?usp=sharing <br />
+
+```
+Methods					URLs 					Actions
+-------------------------------------------------------
+GET						patient/all			get all patients/list
+GET						patient/user/:id		get patients by id
+POST					patient/create			add new patient
+PUT						patient/user/:id		update patient by id
+DELETE					patient/user/:id		delete patient by id
+DELETE					patient/user			remove all patients
+
+
+Admin
+Doctor
+
+GET method on http://localhost:5000/api/patient/all 
+
+ng g service patient
+ng g service message
+
+ng g class patient
+ng g class message
+
+
+
+ng g service admin
+ng g service doctor
+
+ng g class admin
+ng g class doctor
+
