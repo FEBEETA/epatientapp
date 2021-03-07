@@ -1,4 +1,4 @@
-# epatientapp
+# epatientbackend
 
 Requirements:
 PostgreSQL 13 <br />
