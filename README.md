@@ -1,23 +1,23 @@
 # epatientapp
 
 Requirements:
-PostgreSQL 13 \n
-Postman App v8.0.6 : https://www.postman.com/downloads/
-NodeJS v14.5.0
+PostgreSQL 13 <br />
+Postman App v8.0.6 : https://www.postman.com/downloads/ <br />
+NodeJS v14.5.0 <br />
 
-1. Get familiar with NodeJS 
-https://www.youtube.com/watch?v=HYvBXlYykO0 
+1. Get familiar with NodeJS <br />
+https://www.youtube.com/watch?v=HYvBXlYykO0 <br />
 
-2. Learn JSON 
-https://www.youtube.com/watch?v=iiADhChRriM
+2. Learn JSON <br />
+https://www.youtube.com/watch?v=iiADhChRriM <br />
 
-3. Postman tool will be used to test the backend apis
-You dont need the frontend to test apis.
-First create the api in the backend, test it using Postman and then connect it with frontend
+3. Postman tool will be used to test the backend apis <br />
+You dont need the frontend to test apis. <br />
+First create the api in the backend, test it using Postman and then connect it with frontend <br />
 
-4. Identify all the Methods you need in your application
-Review it with me first before creating the backend apis
+4. Identify all the Methods you need in your application <br />
+Review it with me first before creating the backend apis <br />
 
-5. Divide the work for backend api
+5. Divide the work for backend api <br />
 
 
