@@ -1,7 +1,7 @@
 # epatientapp
 
 Requirements:
-PostgreSQL 13
+PostgreSQL 13 \n
 Postman App v8.0.6 : https://www.postman.com/downloads/
 NodeJS v14.5.0
 
